@@ -1,0 +1,18 @@
+<products>
+    <product>
+        <productId>1</productId>
+        <productName>Хлеб</productName>
+    </product>
+    <product>
+        <productId>2</productId>
+        <productName>Колбаса</productName>
+    </product>
+    <product>
+        <productId>3</productId>
+        <productName>Варенье</productName>
+    </product>
+    <product>
+        <productId>4</productId>
+        <productName>Печенье</productName>
+    </product>
+</products>

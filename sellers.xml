@@ -1,0 +1,17 @@
+<sellers>
+    <seller>
+        <sellerId>1</sellerId>
+        <lastName>Иванов</lastName>
+        <firstName>Иван</firstName>
+    </seller>
+    <seller>
+        <sellerId>2</sellerId>
+        <lastName>Петров</lastName>
+        <firstName>Петр</firstName>
+    </seller>
+    <seller>
+        <sellerId>3</sellerId>
+        <lastName>Сидоров</lastName>
+        <firstName>Павел</firstName>
+    </seller>
+</sellers>

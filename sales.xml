@@ -1,0 +1,23 @@
+<sales>
+    <sale>
+        <saleId>1</saleId>
+        <sellerId>1</sellerId>
+        <productId>1</productId>
+        <quantity>20</quantity>
+        <saleDate>2023-11-25</saleDate>
+    </sale>
+    <sale>
+        <saleId>2</saleId>
+        <sellerId>2</sellerId>
+        <productId>2</productId>
+        <quantity>10</quantity>
+        <saleDate>2023-11-26</saleDate>
+    </sale>
+    <sale>
+        <saleId>3</saleId>
+        <sellerId>3</sellerId>
+        <productId>3</productId>
+        <quantity>30</quantity>
+        <saleDate>2023-11-27</saleDate>
+    </sale>
+</sales>

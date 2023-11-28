@@ -1,0 +1,20 @@
+<inventories>
+    <inventory>
+        <sellerId>1</sellerId>
+        <productId>1</productId>
+        <price>10.0</price>
+        <quantity>50</quantity>
+    </inventory>
+    <inventory>
+        <sellerId>2</sellerId>
+        <productId>2</productId>
+        <price>15.0</price>
+        <quantity>30</quantity>
+    </inventory>
+    <inventory>
+        <sellerId>3</sellerId>
+        <productId>3</productId>
+        <price>20.0</price>
+        <quantity>40</quantity>
+    </inventory>
+</inventories>
